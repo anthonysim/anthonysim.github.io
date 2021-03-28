@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.titles {
+  margin: 5px;
+}
+
+#description {
+  margin-bottom: 25px;
+}
+
+.inner-container {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #e8e6e6;
+  padding-top: 10px;
+  /* padding-bottom: 10px; */
+}
+
+.list {
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+
