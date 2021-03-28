@@ -1,9 +1,17 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  border: 1px solid #cac4c4;
+  margin: 20px 150px 20px 150px;
 }
 
+/* .wrapper{
+  margin-left: 175px;
+  margin-right: 175px;
+} */
+
+
 .titles {
-  margin: 5px;
+  margin-top: 5px;
 }
 
 #description {
@@ -15,12 +23,11 @@ body {
   padding-right: 40px;
 }
 
-.wrapper {
+.contact-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   background-color: #e8e6e6;
   padding-top: 10px;
-  /* padding-bottom: 10px; */
 }
 
 .list {
