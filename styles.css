@@ -35,12 +35,13 @@ body {
 
 .info-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
 }
 
 .info-grid-list {
   /* border: 1px solid black; */
   margin-left: 40px;
+  margin-right: 40px;
 }
 
 .employee-title, .employer {
@@ -58,8 +59,4 @@ body {
 
 .gen-skills {
   border: 1px solid;
-}
-
-.details {
-  margin-top: 10px;
 }
