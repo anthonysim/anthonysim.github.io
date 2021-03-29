@@ -60,3 +60,7 @@ body {
 .gen-skills {
   border: 1px solid;
 }
+
+li {
+  font-size: 16px;
+}
