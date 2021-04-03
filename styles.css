@@ -70,6 +70,10 @@ li {
   font-size: 16px;
 }
 
+.sub-section {
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   #description {
     text-align: center;
