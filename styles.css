@@ -44,7 +44,6 @@ body {
 }
 
 .info-grid-list {
-  /* border: 1px solid black; */
   margin-left: 40px;
   margin-right: 40px;
 }
@@ -73,6 +72,11 @@ li {
 .sub-section {
   text-align: center;
 }
+
+.employment-description {
+  font-size: 16px;
+}
+
 
 @media (max-width: 768px) {
   #description {
